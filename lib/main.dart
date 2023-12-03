@@ -54,7 +54,7 @@ class _MyHomePageState extends State<MyHomePage> {
               Icon(Icons.restaurant),
               SizedBox(width: 10),
               Text(
-                "RESEP",
+                "RESEP MAKANAN",
                 style: TextStyle(fontWeight: FontWeight.w900),
               ),
             ],
@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Icon(Icons.food_bank, color: Colors.black),
             Icon(Icons.supervised_user_circle_rounded, color: Colors.black)
           ],
-          backgroundColor: Colors.white,
+          backgroundColor: const Color.fromARGB(255, 0, 0, 0),
           buttonBackgroundColor: Colors.white,
           onTap: (index) {
             setState(() {

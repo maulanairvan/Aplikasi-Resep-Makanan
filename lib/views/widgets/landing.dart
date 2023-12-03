@@ -24,7 +24,7 @@ class Landing extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.symmetric(vertical: 8.0),
               child: Image.asset(
-                "assets/icon/Logo_Aplikasi_Kue.png",
+                "assets/icon/LOGO1.png",
                 height: 300.0,
                 width: 300.0,
                 fit: BoxFit.cover,
