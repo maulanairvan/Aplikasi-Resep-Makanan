@@ -1,7 +1,5 @@
 # Aplikasi Resep Makanan
 
-Poster Aplikasi D:\POSTER APP.jpg
-
 Aplikasi resep makanan adalah program komputer atau perangkat lunak yang dirancang khusus untuk menyediakan informasi tentang cara memasak berbagai hidangan makanan. Aplikasi ini biasanya menawarkan kumpulan resep yang mencakup langkah-langkah detail, bahan-bahan yang diperlukan, serta panduan visual seperti gambar atau video untuk membantu pengguna memahami proses memasak. Tujuan utama dari aplikasi resep makanan adalah memberikan panduan praktis dan inspiratif bagi pengguna dalam menyiapkan hidangan dengan berbagai tingkat kesulitan. Aplikasi semacam itu seringkali dilengkapi dengan fitur pencarian, kategori, dan filter sehingga pengguna dapat dengan mudah menemukan resep sesuai dengan keinginan mereka, seperti masakan khusus, diet tertentu, atau waktu persiapan yang singkat.
 
 Fitur Fitur :
